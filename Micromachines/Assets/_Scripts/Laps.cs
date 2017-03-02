@@ -7,42 +7,42 @@ public class Laps : MonoBehaviour
     public static Vector3 checkpoint;
 
     // These Static Variables are accessed in "checkpoint" Script
-    //public Transform[] checkPointArray;
-    //public static Transform[] checkpoints;
+    // public Transform[] checkPointArray;
+    // public static Transform[] checkpoints;
 
-    //public static int currentCheckpoint = 0;
-    //public static int currentLap = 0;
+    // public static int currentCheckpoint = 0;
+    // public static int currentLap = 0;
 
-    //public Vector3 startPos;
-    //public int Lap;
+    // public Vector3 startPos;
+    // public int Lap;
 
 
 
     void Start()
     {
-        //startPos = transform.position;
-        //currentCheckpoint = 0;
-        //currentLap = 0;
+        // startPos = transform.position;
+        // currentCheckpoint = 0;
+        // currentLap = 0;
 
     }
 
     void Update()
     {
-        //Lap = currentLap;
-        //checkpoints = checkPointArray;
+        // Lap = currentLap;
+        // checkpoints = checkPointArray;
 
-        ////Increase();
-        ////Reset():
+        //// Increase();
+        //// Reset():
     }
 
     public void Increase()
     {
-        //currentCheckpoint++;
-        //currentLap++;
+        // currentCheckpoint++;
+        // currentLap++;
     }
 
     public void Reset()
     {
-        //currentCheckpoint = 0;
+        // currentCheckpoint = 0;
     }
 }

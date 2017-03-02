@@ -29,9 +29,6 @@ public class EnemyCarController : MonoBehaviour {
     public Vector3 temp2;
     public Rigidbody rb;
 
-  
-
-
 
     void  Start()
     {
@@ -85,17 +82,12 @@ public class EnemyCarController : MonoBehaviour {
         //vertical = Input.GetAxis("Vertical");
 
 
-
-        //if (transform. )
-
         //if (transform.rotation.x <= 40.0f && transform.rotation.x >= -40.0f)
         //{
         //    transform.Translate(0, 0, vertical * horizontalSpeed * Time.deltaTime);
 
         //    transform.Rotate(Vector3.up, horizontal * verticalSpeed * Time.deltaTime);
         //}
-
-        
 
     }
 

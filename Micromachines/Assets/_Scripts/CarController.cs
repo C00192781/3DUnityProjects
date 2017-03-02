@@ -80,18 +80,6 @@ public class CarController : MonoBehaviour {
         vertical = Input.GetAxis("Vertical");
 
 
-
-        //if (transform. )
-
-        //if (transform.rotation.x <= 40.0f && transform.rotation.x >= -40.0f)
-        //{
-        //    transform.Translate(0, 0, vertical * horizontalSpeed * Time.deltaTime);
-
-        //    transform.Rotate(Vector3.up, horizontal * verticalSpeed * Time.deltaTime);
-        //}
-
-        
-
     }
 
     void SteerWheels()
