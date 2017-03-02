@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micromachines", "Micromachines.csproj", "{EE6FDA38-FE8C-AF16-5448-40FCD909BFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micromachines.Editor", "Micromachines.Editor.csproj", "{79469BBE-2BDC-AA7F-314B-59007D5D471D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE6FDA38-FE8C-AF16-5448-40FCD909BFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6FDA38-FE8C-AF16-5448-40FCD909BFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6FDA38-FE8C-AF16-5448-40FCD909BFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6FDA38-FE8C-AF16-5448-40FCD909BFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79469BBE-2BDC-AA7F-314B-59007D5D471D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79469BBE-2BDC-AA7F-314B-59007D5D471D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79469BBE-2BDC-AA7F-314B-59007D5D471D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79469BBE-2BDC-AA7F-314B-59007D5D471D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
